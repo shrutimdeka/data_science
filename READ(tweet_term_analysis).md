@@ -1,2 +1,3 @@
-To scrap twitter to find all the recent tweets made by Indian PM MODI.
-Find the words associated with his tweets- in negative & positive sentiments
+To scrap twitter to find all the recent tweets made ABOUT Indian PM MODI.
+Read all tweets that contains 'modi' in it's post.
+Find the words associated with him- in negative & positive sentiments
